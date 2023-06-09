@@ -1,0 +1,12 @@
+{
+  "name": "scope-clojure-workshop",
+  "version": "1.0.0",
+  "description": "learning about scope and Closure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
